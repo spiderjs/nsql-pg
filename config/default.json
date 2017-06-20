@@ -1,0 +1,14 @@
+{
+    "nsql": {
+        "datasource": {
+            "pgtest": {
+                "driver": "./src",
+                "params": {
+                    "user": "postgres",
+                    "host": "localhost",
+                    "database": "test"
+                }
+            }
+        }
+    }
+}
